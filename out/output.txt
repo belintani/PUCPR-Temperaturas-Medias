@@ -1,0 +1,5 @@
+*********************** RESULTADO *************************
+A temperatura MÍNIMA     vale:6.7ºC 
+A MÉDIA das temperaturas vale:18.12ºC 
+A temperatura MÁXIMA     vale:27.3ºC 
+***********************************************************
